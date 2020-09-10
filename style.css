@@ -1,5 +1,5 @@
 h1{
-    color:coral;
+    color:#cc6b20;
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
@@ -8,31 +8,41 @@ h1{
 
 body{
    
-    color:darksalmon; 
+    color:#cc6b20; 
     text-align:center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border:5px solid darksalmon;
+    border:5px solid#797100;
     border-style: dashed;
     font-size: 1.25em;
     font-weight: 525;
     margin: 20px;
     padding:40px;
-    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PEhUPDw8PDw8PEhcPDw8PDQ8NDw8PFRUXFxUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NFQ8PFSsZFRkrKystNzctLTctLSstLSstNy0tLSstKystLS0tKy0rLSsrKysrLS0tKysrKysrKystK//AABEIAOEA4QMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQIH/8QAHhABAQEAAQQDAAAAAAAAAAAAAAER8KGxwdESMXH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAwDAQACEQMRAD8A7PBYjJoCoAKAioALqAAAKgAKkWAhFQAAAWIABQAAVFQFDQEABUIQCqgACgIAFABUAAIoIACiVYAgoIAAACkRQQQBpAAgEAAAABUVAVFQCioCkQAKKARACLEUAQAVAFEAQUBUAFQUEABUAFRUABQEVKApUgAABRQEFBFQgBAAABcEAFQAVFBAKAAAKkAVAAoAoAIqAKgAQABUAVAABQRFEABQKAAVQRUAVIEAAAVIAtRUAAAAAgACxKoIAAoAmAAqAAAAqAAACpVBAAVABRFAiCgioAAAAAC1AURQQAAFBKUq0BFqAAQCqIACggKCVUAIt8oAAoICgIAFCqCAoGiAQBQQoAUABRAVItQAFoIqAAUAKAAqAAAFUAQUEIAJooAAACggAAAKgoIqAAKCAAAACgIAAsAEVAAFAFwBkFBFEAAAFQFEABUBUVKAKgAACiAAoIogAsQFqAC8+hNQGkooAgCxABUKAEVAFSgFKFBUi1AVBQQFBFRYCAUBUUEABvP0T5AjNVAUVABUpQWoqACoAqKCCnO4IqLAQABUqggKCAAKi0EABBcACgAqAFXnVKoCACoqUAAAFoIAAqKCAAqKgAUBUAAVAUTQAgALQBKoAVAAWgCAAqUAFnoAQABQBAAAAWJQQVICiAIP/9k=);
+    background-color: #f1f0eb;
 
 }
     
 img{
-    border: darksalmon 3px solid;
+    border: #245d33 3px solid;
     }
 
+img:hover{
+
+border: #d4dcd4
+
+}
 
 
 a{
-    color: rgb(128, 0, 0);
+    color: #134e22;
+}
+
+a:hover{
+    color:#837900;
+
 }
 
 h2{
-    color:coral;
+    color:#ec2f0c;
     font-size: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
